@@ -1,3 +1,6 @@
 # Welcome to my blog
+_Hello_ :heart:
 
-I'm glad you are here. I plan to talk about ...
+This is the dashboard of your project page
+
+[My image](https://octodex.github.com/images/vinyltocat.png)
